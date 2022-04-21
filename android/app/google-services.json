@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855548890567",
+    "project_id": "ddtv-73de7",
+    "storage_bucket": "ddtv-73de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855548890567:android:825e41d97ab27f4a359de2",
+        "android_client_info": {
+          "package_name": "com.ddtvtamfad.ddtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855548890567-arlhnjon94nnelkme4cruvjsqf8998th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XzpDTag0HrvIDHzi7ytD-599TEkrbF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855548890567-arlhnjon94nnelkme4cruvjsqf8998th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
